@@ -1,2 +1,2 @@
-# Python-Assignment
-Assignment 2
+# PyBank/PyRamen
+
